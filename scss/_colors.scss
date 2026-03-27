@@ -1,0 +1,25 @@
+// Color Palette Definitions
+
+$primary: #3498db; // Main brand color
+$primary-light: lighten($primary, 20%);
+$primary-dark: darken($primary, 20%);
+
+$secondary: #2ecc71; // Secondary color
+$secondary-light: lighten($secondary, 20%);
+$secondary-dark: darken($secondary, 20%);
+
+$success: #28a745; // Success color
+$success-light: lighten($success, 20%);
+$success-dark: darken($success, 20%);
+
+$danger: #e74c3c; // Danger color
+$danger-light: lighten($danger, 20%);
+$danger-dark: darken($danger, 20%);
+
+$warning: #f39c12; // Warning color
+$warning-light: lighten($warning, 20%);
+$warning-dark: darken($warning, 20%);
+
+$info: #00cce6; // Info color
+$info-light: lighten($info, 20%);
+$info-dark: darken($info, 20%);
